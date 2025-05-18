@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYLab_8_1", "PYLab_8_1\PYLab_8_1.pyproj", "{7D846B2D-F4DA-40CB-A3C6-763609CB5C69}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYLab_8_2", "PYLab_8_2\PYLab_8_2.pyproj", "{3ECF80CF-04F4-4EE9-9BD7-F262CBE3BF94}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYLab_8_3", "PYLab_8_3\PYLab_8_3.pyproj", "{2C126055-57FB-4B84-BB2A-0CC665EFB3F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D846B2D-F4DA-40CB-A3C6-763609CB5C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D846B2D-F4DA-40CB-A3C6-763609CB5C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECF80CF-04F4-4EE9-9BD7-F262CBE3BF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECF80CF-04F4-4EE9-9BD7-F262CBE3BF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C126055-57FB-4B84-BB2A-0CC665EFB3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C126055-57FB-4B84-BB2A-0CC665EFB3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0924B91-D08E-4F61-B314-643DAAF633F9}
+	EndGlobalSection
+EndGlobal
