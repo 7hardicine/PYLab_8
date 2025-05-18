@@ -11,6 +11,8 @@
     <OutputPath>.</OutputPath>
     <Name>PYLab_8_3</Name>
     <RootNamespace>PYLab_8_3</RootNamespace>
+    <InterpreterId>
+    </InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>

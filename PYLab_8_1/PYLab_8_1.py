@@ -6,7 +6,7 @@ Sp= { "СТ1": ("Сталь углеродист", 0.00154), "СК3": ("Стек
 X = np.arange(0, 2.01, 0.01)
 Y = -X * np.cos(X + 3) + 2.5
 
-I = np.trapezoid(Y,X)
+I = np.trapz(Y,X)
 print("Площадь заготовки =", I)
 
 num_of_blanks = 1600
