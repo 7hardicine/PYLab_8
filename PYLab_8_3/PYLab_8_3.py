@@ -9,7 +9,7 @@ def bisect(xn, xk, dx, eps):
     while xk - xn > eps:
        dx = (xk - xn)/2;
        xi = xn + dx;
-       if (f(xn)<0 and f(xi)>0) or (f(xn)>0 and f(xi)<0):
+       if (f(xn) < 0 and f(xi) > 0) or (f(xn) > 0 and f(xi) < 0):
            xk = xi
        else:
            xn = xi
